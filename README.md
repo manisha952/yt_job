@@ -33,10 +33,6 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-```
-
-Then open:
-👉 http://localhost:3000
 
 ---
 
